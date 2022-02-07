@@ -37,6 +37,10 @@ body {
 
     a {
       color: var(--text-color);
+
+      &:visited {
+        color: var(--text-color);
+      }
     }
 
     .blue {
