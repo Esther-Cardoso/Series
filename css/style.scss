@@ -35,6 +35,10 @@ body {
     font-size: 3rem;
     margin-bottom: 20px;
 
+    a {
+      color: var(--text-color);
+    }
+
     .blue {
       color: var(--destaque-color);
     }
