@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img style="height: 600px" src="https://github.com/Esther-Cardoso/Series/blob/main/img-readme.jpg?raw=true">
+<img src="https://github.com/Esther-Cardoso/Series/blob/main/img-readme.jpg?raw=true">
 </p>
 
 <p align="center">
