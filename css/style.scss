@@ -114,6 +114,10 @@ body {
       padding: 5px 0;
       position: relative;
       max-width: 350px;
+
+       &:hover {
+        text-decoration: underline;
+      }
     }
 
     li a {
